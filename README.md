@@ -1,5 +1,7 @@
 ## Hi I'm Intajuddin Saikia👋
 🎓 Aspiring Data Analyst | Gen AI | Gauhati University B.E
+
+Professional with 6+ years in sales and business operations, skilled in SQL, Python, Power BI, and Advanced Excel through hands-on data analytics training. Combines strong business acumen with data analysis, modeling and visualization expertise to drive data-informed decisions — targeting a Data Analyst role.
 <!--
 **intazsaikia21/intazsaikia21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
