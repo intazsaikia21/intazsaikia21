@@ -3,7 +3,7 @@
 
 Professional with 6+ years in sales and business operations, skilled in SQL, Python, Power BI, and Advanced Excel. Combines strong business acumen with data analysis, modeling and visualization expertise to drive data-informed decisions — targeting a Data Analyst role.
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
 - Languages: Python, SQL
 - Gen AI: Advanced Prompting,Text, Image, Audio & Video creation, Workflow Automations, AI Agent Building
