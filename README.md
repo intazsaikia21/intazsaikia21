@@ -1,5 +1,5 @@
 ## Hi I'm Intajuddin Saikia👋
-- 🎓 Aspiring Data Analyst | Gen AI | Gauhati University B.E
+🎓 Aspiring Data Analyst | Gen AI | Gauhati University B.E
 <!--
 **intazsaikia21/intazsaikia21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
