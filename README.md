@@ -1,5 +1,5 @@
 ## Hi I'm Intajuddin Saikia👋
-###🎓 Aspiring Data Analyst | Gen AI | Gauhati University B.E
+#🎓 Aspiring Data Analyst | Gen AI | Gauhati University B.E
 
 Professional with 6+ years in sales and business operations, skilled in SQL, Python, Power BI, and Advanced Excel. Combines strong business acumen with data analysis, modeling and visualization expertise to drive data-informed decisions — targeting a Data Analyst role.
 
