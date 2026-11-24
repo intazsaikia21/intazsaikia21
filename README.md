@@ -13,7 +13,7 @@ Professional with 6+ years in sales and business operations, skilled in SQL, Pyt
 
 ## 🚀 Projects
 
-- 🔵 Power Bi – ShopNest E-Commerce Sales Intelligence Dashboard - https://github.com/intazsaikia21/E-Commerce-Sales-Intelligence-Dashboard
+- 🔵 My first project – ShopNest E-Commerce Sales Intelligence Dashboard - https://github.com/intazsaikia21/E-Commerce-Sales-Intelligence-Dashboard
 - 🟢 Python HR Analytics Capstone - https://github.com/intazsaikia21/HR-Analytics-Capstone-Python
 
 ## 📜 Certifications
