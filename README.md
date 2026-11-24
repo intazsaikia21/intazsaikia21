@@ -7,14 +7,14 @@ Professional with 6+ years in sales and business operations, skilled in SQL, Pyt
 
 - Languages: Python, SQL
 - Gen AI: Advanced Prompting,Text, Image, Audio & Video creation, Workflow Automations, AI Agent Building
-- Visualization: Power BI, Power Qwery, DAX, Advanced Excel, Google Sheets, Matplotlib
+- Visualization: Power BI, Power Query, DAX, Advanced Excel, Google Sheets, Matplotlib
 - Tools: Jupyter Notebook, Pandas, NumPy
 - Domains: Data Analytics
 
 ## 🚀 Projects
 
-- 🔵 Power Bi – ShopNest E-Commerce Sales Intelligence Dashboard
-- 🟢 Python HR Analytics Capstone
+- 🔵 Power Bi – ShopNest E-Commerce Sales Intelligence Dashboard - https://github.com/intazsaikia21/E-Commerce-Sales-Intelligence-Dashboard
+- 🟢 Python HR Analytics Capstone - https://github.com/intazsaikia21/HR-Analytics-Capstone-Python
 
 ## 📜 Certifications
 
@@ -24,7 +24,7 @@ Professional with 6+ years in sales and business operations, skilled in SQL, Pyt
 ## 📫 Connect With Me
 
 - Linkedin: www.linkedin.com/in/intaj-saikia
-- Email: intazsaikia1@gmail.com
+- Email: intaz.saikia20@gmail.com
 <!--
 **intazsaikia21/intazsaikia21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
