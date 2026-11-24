@@ -11,7 +11,7 @@ Professional with 6+ years in sales and business operations, skilled in SQL, Pyt
 - Tools: Jupyter Notebook, Pandas, NumPy
 - Domains: Data Analytics
 
-## 🚀 Projects(In Progress)
+## 🚀 Projects
 
 - 🔵 Power BI Project – ShopNest E-Commerce Sales Intelligence Dashboard - https://github.com/intazsaikia21/E-Commerce-Sales-Intelligence-Dashboard
 - 🟢 Python HR Analytics Capstone - https://github.com/intazsaikia21/HR-Analytics-Capstone-Python
