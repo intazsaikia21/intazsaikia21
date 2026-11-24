@@ -13,13 +13,13 @@ Professional with 6+ years in sales and business operations, skilled in SQL, Pyt
 
 ## 🚀 Projects
 
-- 🔵 My first project – ShopNest E-Commerce Sales Intelligence Dashboard - https://github.com/intazsaikia21/E-Commerce-Sales-Intelligence-Dashboard
+- 🔵 Power BI Project – ShopNest E-Commerce Sales Intelligence Dashboard - https://github.com/intazsaikia21/E-Commerce-Sales-Intelligence-Dashboard
 - 🟢 Python HR Analytics Capstone - https://github.com/intazsaikia21/HR-Analytics-Capstone-Python
 
 ## 📜 Certifications
 
--	Data Analytics + Python Course - SkilloVilla
--	Certified AI Generalist - SkilloVilla
+-	Data Analytics + Python Course - SkilloVilla - https://www.skillovilla.com/certificate/3442V8XJ
+-	Certified AI Generalist - SkilloVilla - https://www.skillovilla.com/certificate/F3BE2LB0
 
 ## 📫 Connect With Me
 
